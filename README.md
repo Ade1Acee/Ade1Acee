@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ade1Acee
+- 👋 Hi, I’m @Ade
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning SQL, Tableau
 - 💞️ I’m looking to collaborate on SQL/Tableau projects
